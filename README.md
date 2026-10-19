@@ -25,5 +25,3 @@
 </table>
 
 ---
-
-<p align="center">⭐ Thanks for visiting my profile ⭐</p>
