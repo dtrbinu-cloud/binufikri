@@ -16,10 +16,8 @@
     <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3" width="190" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/dtrbinu-cloud/binufikri/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/dtrbinu-cloud/binufikri/output/github-snake-dark.svg" alt="snake animation" width="650" />
     </td>
   </tr>
 </table>
