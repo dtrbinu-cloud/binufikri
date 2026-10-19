@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋 I'm Binu</h1>
 
 <p align="center"><b>Backend Developer • Laravel Enthusiast • Lifelong Learner</b></p>
----
-<p align="center">
-- 💻 Focus on Backend Development
-- 🌱 Learning Laravel, PHP, MySQL
+
 </p>
 
 ## 🛠️ Tech Stack
