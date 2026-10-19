@@ -4,6 +4,7 @@
 ---
 - 💻 Focus on Backend Development
 - 🌱 Learning Laravel, PHP, MySQL
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js" />
