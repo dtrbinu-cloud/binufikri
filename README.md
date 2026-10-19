@@ -2,8 +2,10 @@
 
 <p align="center"><b>Backend Developer • Laravel Enthusiast • Lifelong Learner</b></p>
 ---
+<p align="center">
 - 💻 Focus on Backend Development
 - 🌱 Learning Laravel, PHP, MySQL
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -25,22 +27,6 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/dtrbinu-cloud/dtrbinu-cloud/output/github-snake-dark.svg" alt="snake animation" />
-</p>
-
-## 💬 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/dtrbinu-cloud"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dtrbinu-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile ⭐</p>
