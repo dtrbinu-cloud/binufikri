@@ -12,17 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dtrbinu-cloud&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtrbinu-cloud&layout=compact&theme=tokyonight" />
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dtrbinu-cloud&theme=tokyonight" />
-</p>
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtrbinu-cloud&theme=tokyo-night" />
