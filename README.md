@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋 I'm Binu</h1>
 
-<p align="center"><b>Backend Developer • Laravel Enthusiast • Lifelong Learner</b></p>
-
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <ul>
+        <li>Backend Developer</li>
+        <li>Laravel Enthusiast</li>
+        <li>Lifelong Learner</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3" />
+    </td>
+  </tr>
+</table>
 
 ---
 
