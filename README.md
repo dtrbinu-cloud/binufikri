@@ -13,12 +13,12 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/binufikri" />
+  <img src="https://ghchart.rshah.org/dtrbinu-cloud" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/binufikri/binufikri/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/dtrbinu-cloud/dtrbinu-cloud/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile ⭐</p>
