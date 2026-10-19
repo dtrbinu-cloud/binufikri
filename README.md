@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋 I'm Binu</h1>
 
 <p align="center"><b>Backend Developer • Laravel Enthusiast • Lifelong Learner</b></p>
-
 ---
-
-## 🧑‍💻 About Me
-- 🎓 Software Engineering Student
 - 💻 Focus on Backend Development
 - 🌱 Learning Laravel, PHP, MySQL
-- 🚀 Building Real World Projects
-- 🧩 Love solving programming problems
-
----
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js" />
