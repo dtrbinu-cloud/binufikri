@@ -2,7 +2,7 @@
 
 <p align="center"><b>Backend Developer • Laravel Enthusiast • Lifelong Learner</b></p>
 
-</p>
+---
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtrbinu-cloud&theme=tokyo-night" />
+  <img src="https://ghchart.rshah.org/dtrbinu-cloud" />
 </p>
 
 ## 🏆 GitHub Trophy
