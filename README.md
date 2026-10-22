@@ -1,7 +1,11 @@
 <h1 align="center">Hey, It's Binu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;REST+API+Builder;PHP+Developer;Always+Learning+New+Things" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;REST+API+Builder;PHP+Developer;Always+Learning+New+Things" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;REST+API+Builder;PHP+Developer;Always+Learning+New+Things" />
+    <img alt="Backend Developer | Laravel Developer | REST API Builder | PHP Developer" src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;REST+API+Builder;PHP+Developer;Always+Learning+New+Things" />
+  </picture>
 </p>
 
 ---
@@ -14,10 +18,18 @@
       😹&nbsp;Lifelong&nbsp;Learner
     </td>
     <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3" width="190" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3&theme=light" />
+        <img alt="Tech stack" src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3&theme=light" width="190" />
+      </picture>
     </td>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/dtrbinu-cloud/binufikri/output/github-snake-dark.svg" alt="snake animation" width="650" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dtrbinu-cloud/binufikri/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dtrbinu-cloud/binufikri/output/github-snake.svg" />
+        <img alt="snake animation" src="https://raw.githubusercontent.com/dtrbinu-cloud/binufikri/output/github-snake.svg" width="650" />
+      </picture>
     </td>
   </tr>
 </table>
