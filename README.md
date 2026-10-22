@@ -18,11 +18,7 @@
       😹&nbsp;Lifelong&nbsp;Learner
     </td>
     <td align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3&theme=light" />
-        <img alt="Tech stack" src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3&theme=light" width="190" />
-      </picture>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js&perline=3" width="190" alt="Tech stack" />
     </td>
     <td align="center" valign="middle">
       <picture>
